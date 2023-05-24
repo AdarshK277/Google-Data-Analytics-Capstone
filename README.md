@@ -10,6 +10,7 @@ Therefore, your team wants to understand how casual riders and annual members us
 From these insights, your team will design a new marketing strategy to convert casual riders into annual members.
 But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
+## Project Flow
 ### Data Collection
 You will use Cyclistic’s historical trip data to analyze and identify trends. Download the previous 12 months of Cyclistic trip data [here](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
@@ -22,13 +23,13 @@ For the purposes of this case study, the datasets are appropriate and will enabl
 * Transform the data so you can work with it effectively.
 * Document the cleaning process.
 
-### Data Analysis using SQL/R
+### Data Analysis using SQL/R/Python
 * Aggregate your data so it’s useful and accessible.
 * Organize and format your data.
 * Perform calculations.
 * Identify trends and relationships.
 
-### Data Visualization using Tableau
+### Data Visualization using Tableau/R/Python
 * Create effective data visualizations.
 * Present your findings.
 * Ensure your work is accessible.
